@@ -1,0 +1,12 @@
+:root {
+    --img: url(./assets/someimage.jpg);
+    --color1: #A1C3D1;
+    --color2: #F0EBF4;
+    --color3: #F0EBF4;
+  }
+
+*{
+    margin:0;
+    border:0;
+    font-family: 'Poppins', sans-serif;
+}
